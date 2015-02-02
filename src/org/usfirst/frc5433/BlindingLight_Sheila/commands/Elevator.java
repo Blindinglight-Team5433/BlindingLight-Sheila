@@ -15,9 +15,9 @@ import edu.wpi.first.wpilibj.command.CommandGroup;
 /**
  *
  */
-public class ${name.replace(' ', '')} extends CommandGroup {
+public class Elevator extends CommandGroup {
     
-    public  ${name.replace(' ', '')}() {
+    public  Elevator() {
         // Add Commands here:
         // e.g. addSequential(new Command1());
         //      addSequential(new Command2());
